@@ -8,6 +8,7 @@ body {
 .logo {
   font-weight: bolder;
   margin-left: 40%;
+<<<<<<< HEAD
 
 }
 
@@ -15,6 +16,78 @@ body {
   font-size: 36px;
   margin-bottom: 20px;
 }
+=======
+}
+.since {
+ bottom: 220px; 
+ right: 180px; 
+ font-size: 22px;
+ }
+ .since p{
+  color:orange;
+  }
+
+.hero-text h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero-text h6 {
+  font-weight: bolder;
+}
+
+.hero-text p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  border-radius: 5px 0 0 5px;
+}
+
+.search-bar button {
+  border-radius: 0 5px 5px 0;
+  background-color: orangered;
+}
+
+.popular-dishes h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  margin-right: 70%;
+}
+
+.rounded-pill{
+  width:50px;
+  height:30px;
+  margin-bottom: 20px;
+}
+
+.dish p {
+  margin: 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.checked {
+  color: goldenrod;
+  font-size: 20px;
+}
+
+.unchecked {
+  font-size: 20px;
+}
+
+.img-fluid {
+  width: 140px;
+  height: 100px;
+}
+
+
+.display-4{
+  font-size: 32px;
+  font-weight: bolder;
+}
+>>>>>>> 1c640d941bb9766b0406407b9d8abdf355d3e9ad
 
 .hero-text h6 {
   font-weight: bolder;
