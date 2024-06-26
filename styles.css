@@ -1,0 +1,67 @@
+
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+      }
+      .logo{
+        font-weight:bolder;
+        margin-left: 40%;
+       
+      }
+      
+      .hero-text h2 {
+        font-size: 36px;
+        margin-bottom: 20px;
+      }
+
+      .hero-text h6 {
+        font-weight: bolder;
+      }
+      
+      .hero-text p {
+        font-size: 12px;
+        margin-bottom: 20px;
+      }
+      
+      .search-bar input {
+        border-radius: 5px 0 0 5px;
+      }
+      
+      .search-bar button {
+        border-radius: 0 5px 5px 0;
+        background-color: orangered;
+      }
+      
+      
+      .popular-dishes h2 {
+        font-size: 36px;
+        margin-bottom: 40px;
+        margin-right:70%;
+      }
+      
+      .dish img {
+        border-radius: 10px;
+      }
+      
+      .dish p {
+        margin: 10px 0;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      
+     
+
+      .checked {  
+        color : goldenrod;  
+        font-size : 20px;  
+    }  
+    .unchecked {  
+        font-size : 20px;  
+    }  
+    .img-fluid{
+        width:140px;
+        height:100px;
+    }
+
